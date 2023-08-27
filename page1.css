@@ -1,0 +1,115 @@
+*{
+    margin: 5px;
+}
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqNmKYqE-wHWSjNbY2moXR9UJ97K6eMSrCw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.main-heading{
+    margin: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+    
+}
+.GVK{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+    
+}
+.image1{
+    padding: 10px;
+}
+.heading1{
+    font-size: large;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.para1{
+    padding: 15px;
+    width: 500px;
+
+}
+.Sujana{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.image2{
+    padding: 10px;
+}
+.para2{
+    padding: 15px;
+    width: 500px;
+
+}
+.City{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.image3{
+    padding: 10px;
+}
+.para3{
+    padding: 15px;
+    width: 500px;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.Trinity{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.hyd{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.next{
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
